@@ -1,5 +1,5 @@
 package Estore;
 
-public class Seller {
-    private User.Seller seller;
+public class Seller extends User {
+//    private User.Seller seller;
 }

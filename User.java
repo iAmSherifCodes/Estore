@@ -8,15 +8,20 @@ public class User {
     private String userPhoneNumber;
 
 
-    static class Admin{
+//    public class Admin extends User{
+//
+//    }
+//
+//    static class Seller extends User{
+//
+//    }
+//    public static class Customer extends User{
+////        private BillingInformation billingInformation;
+////        private ShoppingCart shoppingCart;
+//
+//        private User.Customer customer;
+//        private  BillingInformation billingInformation;
+//        private ShoppingCart shoppingCart;
+//    }
 
-    }
-
-    static class Seller{
-
-    }
-    static class Customer{
-        private BillingInformation billingInformation;
-        private ShoppingCart shoppingCart;
-    }
 }
